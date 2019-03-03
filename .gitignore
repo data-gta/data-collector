@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Data.GTA.MVC/Data.GTA.MVC/bin
+/Data.GTA.MVC/Data.GTA.MVC/obj/Debug
+/packages
